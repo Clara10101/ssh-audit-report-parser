@@ -1,0 +1,25 @@
+body {
+      margin-left: 15%;
+      margin-right: 15%;
+}
+
+table {
+    width: 80%;
+}
+
+td {
+    width: 50%;
+}
+
+.result_section {
+    #border-left-color: rgb(204, 204, 204);
+    #border-style: solid;
+}
+
+.part_header {
+    color: rgb(0, 0, 153);
+}
+
+.red {
+    color: red;
+}
